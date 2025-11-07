@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
 });
 
 // sync DB (for dev only)
-sequelize.sync().then(() => {
+sequelize.sync({ alter: true }).then(() => {
     console.log('Database synced');
 }).catch(err => {
     console.error('DB sync error:', err);

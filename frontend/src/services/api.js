@@ -12,6 +12,18 @@ export function createProfile(data) {
   return api.post('/profiles', data);
 }
 
+export function checkProxy(data) {
+  return api.post('/profiles/check-proxy', data);
+}
+
+export function updateProfile(id, data) {
+  return api.put(`/profiles/${id}`, data);
+}
+
+export function deleteProfile(id) {
+  return api.delete(`/profiles/${id}`);
+}
+
 export function launchProfile(profileId) {
   return api.post('/jobs/launch', { profileId });
 }
