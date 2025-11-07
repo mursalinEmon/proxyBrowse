@@ -1,0 +1,6 @@
+2025/11/08-03:46:56.132 59c8 Reusing MANIFEST C:\laragon\www\proxyBrowse\backend\profiles_data\profile_9\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/08-03:46:56.134 59c8 Recovering log #3
+2025/11/08-03:46:56.137 59c8 Reusing old log C:\laragon\www\proxyBrowse\backend\profiles_data\profile_9\Default\Local Storage\leveldb/000003.log 
+2025/11/08-03:47:58.005 59c8 Level-0 table #5: started
+2025/11/08-03:47:58.022 59c8 Level-0 table #5: 50033 bytes OK
+2025/11/08-03:47:58.026 59c8 Delete type=0 #3

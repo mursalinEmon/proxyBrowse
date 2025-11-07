@@ -1,0 +1,6 @@
+2025/11/08-03:35:51.602 55d8 Creating DB C:\laragon\www\proxyBrowse\backend\profiles_data\profile_10\Default\IndexedDB\https_ipcheck.ing_0.indexeddb.leveldb since it was missing.
+2025/11/08-03:35:51.621 55d8 Reusing MANIFEST C:\laragon\www\proxyBrowse\backend\profiles_data\profile_10\Default\IndexedDB\https_ipcheck.ing_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/08-03:35:51.635 560c Level-0 table #5: started
+2025/11/08-03:35:51.653 560c Level-0 table #5: 1270 bytes OK
+2025/11/08-03:35:51.656 560c Delete type=0 #3
+2025/11/08-03:35:51.656 55d8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
